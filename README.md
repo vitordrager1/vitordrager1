@@ -8,7 +8,4 @@ PHP /
 CSS /
 HTML /
 
-Metas 2022:
-1º Desenvolver uma db completo
-2º Começar os estágios.
 
