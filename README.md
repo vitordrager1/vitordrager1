@@ -11,11 +11,10 @@ CSS /
 HTML /
 
 
-Estudando sobre:
+Prioridade em:
 JS /
 HTML /
 CSS /
-GIT / 
 MongoDB /
 Express /
 
