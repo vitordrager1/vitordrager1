@@ -2,19 +2,21 @@ Olá, sou Vitor Drager, academico de Tecnologia em Análise e Desenvolvimento de
 Estou no inicio da carreira como desenvolvedor, testando novos conhecimentos e buscando novos desafios.
 
 Linguagens e conhecimentos:
-JS *****
-Python ***
-PHP ***
-C++ *
-C# *
-CSS ***
-HTML ***
+JS /
+Python /
+PHP /
+C++ /
+C# /
+CSS /
+HTML /
 
 
 Estudando sobre:
-JS ******
-HTML *****
-CSS ****
-GIT ***
-MongoDB **
-Express *
+JS /
+HTML /
+CSS /
+GIT / 
+MongoDB /
+Express /
+
+
