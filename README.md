@@ -1,7 +1,7 @@
 
 <h1>Olá, me chamo Vitor Drager </h1>
 
-<h2>🗃️Trabalhador, 🎓Estudante, 👨‍💻Desenvolvedor e Sonhador🚀</h2>
+<h2>🗃️Trabalhador, 🎓Estudante, 👨‍💻Desenvolvedor e 🚀Sonhador</h2>
 
 <div style="display: inline_block" >
   
