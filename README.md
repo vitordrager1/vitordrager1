@@ -6,7 +6,7 @@
 <div style="display: inline_block" >
   
   <br>
-  <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:50px;" 
+  <img align="right" alt="Vitor-avatar" height="150" width="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/885158152562163772/931346199284428840/avatar.jpg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">★★★☆☆
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />★★☆☆☆
