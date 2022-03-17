@@ -6,7 +6,7 @@
 <div style="display: inline_block" >
   
   <br>
-  Já trabalhado: 
+  Já utilizado: 
   <img align="right" alt="Vitor-avatar" height="150" width="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/931351487886528532/931946418971758662/gifcode.gif">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">★★★☆☆
