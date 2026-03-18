@@ -1,37 +1,58 @@
+<h1 align="center">Hey there, I'm Vitor Drager 👋</h1>
 
-<h1>Olá, me chamo Vitor Drager </h1>
+<p align="center">
+  <b>Full Stack Developer & Tech Lead</b><br/>
+  Crafting scalable solutions from frontend to backend — and everything in between.
+</p>
 
-<h2>🗃️Trabalhador, 🎓Estudante, 👨‍💻Desenvolvedor e 🚀Sonhador</h2>
+---
 
-<div style="display: inline_block" >
-  
-  <br>
-  Já utilizado: 
-  <img align="right" alt="Vitor-avatar" height="150" width="150" style="border-radius:50px;" 
-src="https://cdn.discordapp.com/attachments/931351487886528532/931946418971758662/gifcode.gif">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">★★★☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />★★☆☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />★★☆☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">★★☆☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />★☆☆☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />★★★☆☆
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> ★★☆☆☆
-  
-  <br><br>
+## 🧑‍💻 About Me
 
-  Aprendendo: <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+I'm a Full Stack Developer and Tech Lead passionate about building robust, high-quality software. I work across the entire stack, leading teams and delivering solutions that make a real difference.
 
-</div>
+- 💼 **Role:** Full Stack Developer & Tech Lead
+- 🌐 **Languages:** JavaScript & TypeScript
+- ⚛️ **Frameworks:** React, Vue, Node.js
+- 🗄️ **Database:** Oracle
+- 🏛️ **Legacy knowledge:** [Uniface](https://uniface.com/) — a powerful 4GL legacy framework still alive in enterprise systems
 
-  ##
-  
-<div style="display: inline_block">
-  <br>
-  <a href="https://www.instagram.com/vitordrager" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-  <a href="https://discord.gg/RzSGENtM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a> 
-  <a href="mailto:vitordrager09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="https://linkedin.com/in/vitor-drager-969494213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-<br>
-Work Hard!
+---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordrager1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="https://www.instagram.com/vitordrager" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-drager-969494213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Good code is its own best documentation."</i>
+</p>
